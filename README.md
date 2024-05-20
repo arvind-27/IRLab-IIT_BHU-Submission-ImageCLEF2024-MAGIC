@@ -1,0 +1,1 @@
+# IRLab-IIT_BHU-Submission-ImageCLEF2024-MAGIC
